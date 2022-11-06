@@ -1,0 +1,18 @@
+D:\yazılım geliştirme\C#\Site Admin Paneli\bin\Debug\net5.0-windows\Site Admin Paneli.exe
+D:\yazılım geliştirme\C#\Site Admin Paneli\bin\Debug\net5.0-windows\Site Admin Paneli.deps.json
+D:\yazılım geliştirme\C#\Site Admin Paneli\bin\Debug\net5.0-windows\Site Admin Paneli.runtimeconfig.json
+D:\yazılım geliştirme\C#\Site Admin Paneli\bin\Debug\net5.0-windows\Site Admin Paneli.runtimeconfig.dev.json
+D:\yazılım geliştirme\C#\Site Admin Paneli\bin\Debug\net5.0-windows\Site Admin Paneli.dll
+D:\yazılım geliştirme\C#\Site Admin Paneli\bin\Debug\net5.0-windows\Site Admin Paneli.pdb
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.csproj.AssemblyReference.cache
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site_Admin_Paneli.Form1.resources
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.csproj.GenerateResource.cache
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.GeneratedMSBuildEditorConfig.editorconfig
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.AssemblyInfoInputs.cache
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.AssemblyInfo.cs
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.csproj.CoreCompileInputs.cache
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.dll
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\refint\Site Admin Paneli.dll
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.pdb
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\Site Admin Paneli.genruntimeconfig.cache
+D:\yazılım geliştirme\C#\Site Admin Paneli\obj\Debug\net5.0-windows\ref\Site Admin Paneli.dll
