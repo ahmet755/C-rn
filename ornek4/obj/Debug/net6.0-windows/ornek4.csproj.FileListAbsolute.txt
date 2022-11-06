@@ -1,0 +1,17 @@
+F:\yazılım geliştirme\C#\ornek4\bin\Debug\net6.0-windows\ornek4.exe
+F:\yazılım geliştirme\C#\ornek4\bin\Debug\net6.0-windows\ornek4.deps.json
+F:\yazılım geliştirme\C#\ornek4\bin\Debug\net6.0-windows\ornek4.runtimeconfig.json
+F:\yazılım geliştirme\C#\ornek4\bin\Debug\net6.0-windows\ornek4.dll
+F:\yazılım geliştirme\C#\ornek4\bin\Debug\net6.0-windows\ornek4.pdb
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.csproj.AssemblyReference.cache
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.Form1.resources
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.csproj.GenerateResource.cache
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.GeneratedMSBuildEditorConfig.editorconfig
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.AssemblyInfoInputs.cache
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.AssemblyInfo.cs
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.csproj.CoreCompileInputs.cache
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.dll
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\refint\ornek4.dll
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.pdb
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ornek4.genruntimeconfig.cache
+F:\yazılım geliştirme\C#\ornek4\obj\Debug\net6.0-windows\ref\ornek4.dll
