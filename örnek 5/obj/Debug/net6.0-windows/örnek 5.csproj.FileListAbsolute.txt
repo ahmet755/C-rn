@@ -1,0 +1,17 @@
+F:\yazılım geliştirme\C#\örnek 5\bin\Debug\net6.0-windows\örnek 5.exe
+F:\yazılım geliştirme\C#\örnek 5\bin\Debug\net6.0-windows\örnek 5.deps.json
+F:\yazılım geliştirme\C#\örnek 5\bin\Debug\net6.0-windows\örnek 5.runtimeconfig.json
+F:\yazılım geliştirme\C#\örnek 5\bin\Debug\net6.0-windows\örnek 5.dll
+F:\yazılım geliştirme\C#\örnek 5\bin\Debug\net6.0-windows\örnek 5.pdb
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.csproj.AssemblyReference.cache
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek_5.Form1.resources
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.csproj.GenerateResource.cache
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.GeneratedMSBuildEditorConfig.editorconfig
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.AssemblyInfoInputs.cache
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.AssemblyInfo.cs
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.csproj.CoreCompileInputs.cache
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.dll
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\refint\örnek 5.dll
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.pdb
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\örnek 5.genruntimeconfig.cache
+F:\yazılım geliştirme\C#\örnek 5\obj\Debug\net6.0-windows\ref\örnek 5.dll
